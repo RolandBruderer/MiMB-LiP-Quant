@@ -1,0 +1,2 @@
+ProteinNames	Target	ExpNameComp	ExpNameSN
+FKB1A_HUMAN	YES	480-Exp18-RapaDR-PubSpecLib_candidates.txt	480-Exp18-RapaDR-PubSpecLib_Report.txt
